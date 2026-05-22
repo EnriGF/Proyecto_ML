@@ -1,31 +1,26 @@
-```markdown
-# Machine Learning & Big Data for Bioinformatics — Practice Repository
+# Machine Learning & Big Data para Bioinformática — Repositorio de Práctica
 
+Este repositorio contiene ejercicios, Jupyter Notebooks y pequeños experimentos relacionados con Machine Learning y Big Data aplicados a la bioinformática.
 
-This repository contains practice exercises, Jupyter Notebooks, and small experiments related to Machine Learning and Big Data concepts applied to bioinformatics.
+El objetivo principal es el aprendizaje y la experimentación. Aquí subo notebooks y fragmentos de código creados mientras practico con datasets biológicos públicos y pruebo distintas herramientas, librerías y flujos de trabajo en Python.
 
+Los temas explorados en este repositorio incluyen:
 
-The main purpose of this project is learning and experimentation. Here I upload notebooks and code snippets created while practicing with public biological datasets and testing different Python tools, libraries, and workflows.
+- Preprocesamiento y limpieza de datos
+- Análisis exploratorio de datos
+- Flujos básicos de Machine Learning
+- Herramientas y conceptos de Big Data
+- Datasets orientados a bioinformática
+- Práctica de programación en Python
+- Flujo de trabajo con Git y GitHub
 
+## Nota importante
 
-Topics explored in this repository may include:
+Este no es un proyecto a nivel de producción ni un repositorio de investigación finalizado. La mayoría de los archivos están pensados para practicar, probar comandos, experimentar con nuevas funciones y mejorar las habilidades de programación paso a paso.
 
-- Data preprocessing and cleaning
-- Exploratory data analysis
-- Basic Machine Learning workflows
-- Big Data tools and concepts
-- Bioinformatics-oriented datasets
-- Python programming practice
-- Git and GitHub workflow practice
+## Herramientas y tecnologías
 
-## Important Note
-
-This is not a production-level project or a finalized research repository. Most files are intended for practice, testing commands, trying new functions, and improving programming skills step by step.
-
-
-## Tools and Technologies
-
-Some of the tools and libraries used throughout the repository include:
+Algunas de las herramientas y librerías utilizadas a lo largo del repositorio:
 
 - Python
 - Jupyter Notebook
@@ -33,20 +28,17 @@ Some of the tools and libraries used throughout the repository include:
 - NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
-- Apache Spark (when applicable)
+- Apache Spark (cuando aplica)
 
+## Objetivo del repositorio
 
-## Repository Goal
+Los objetivos de este repositorio son:
 
-The objective of this repository is to:
-
-- Reinforce concepts learned during online courses and personal study
-- Practice handling biological data
-- Improve Python programming skills
-- Learn version control with Git and GitHub
-- Experiment with different Machine Learning approaches
-
+- Reforzar conceptos aprendidos durante cursos y estudio personal
+- Practicar el manejo de datos biológicos
+- Mejorar las habilidades de programación en Python
+- Aprender control de versiones con Git y GitHub
+- Experimentar con distintos enfoques de Machine Learning
 
 ---
-Practice-oriented repository for continuous learning and experimentation.
-```
+Repositorio orientado a la práctica, el aprendizaje continuo y la experimentación.
